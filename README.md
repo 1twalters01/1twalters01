@@ -25,4 +25,4 @@ Figma
 ## Other things I have used recently
 Hugo, kotlin
 
-Thank you for reading!
+## Thank you for reading!
