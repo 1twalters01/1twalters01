@@ -7,7 +7,7 @@ I enjoy playing around with different aspects of technology and finding ways to 
 
 I am currently focusing on improving my data analytics skills and my use of the DjangoREST framework in my freetime.
 
-I do quite a lot of freelancing in my freetime so progress on my project may be slow.
+I do quite a lot of freelancing in my spare time so progress on my project may be slow.
 
 ## Tech stack
 Listing things of note:
