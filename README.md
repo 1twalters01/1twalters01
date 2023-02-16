@@ -14,6 +14,7 @@ Listing things of note:
 
 ### Back end
 Languages - Python: Django, Flask, Numpy, Pandas; Node.JS
+
 Databases - Postgresql, Redis, MongoDB, Cassandra
 
 ### Front end
