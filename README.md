@@ -15,10 +15,10 @@ Listing things of note:
 ### Back end
 Languages - Python: Django, Flask, Numpy, Pandas; Node.JS
 
-Databases - Postgresql, Redis, MongoDB, Cassandra
+Databases - Postgresql, Redis, Cassandra, MongoDB
 
 ### Front end
-HTML5, CSS, SCSS, JavaScript, TypeScript, React
+HTML5, CSS, SCSS, JavaScript, TypeScript, React, Angular, Emotion
 
 ### Design
 Figma
