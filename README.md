@@ -13,12 +13,18 @@ I do quite a lot of freelancing in my spare time so progress on my project may b
 Listing things of note:
 
 ### Back end
-Languages - Python: Django, Flask, Numpy, Pandas; Node.JS
-
-Databases - Postgresql, Redis, Cassandra, MongoDB
+### Languages
+Python, Rust, C++
+### Frameworks
+Django, FastAPI
+### Databases
+Postgresql, Redis, Cassandra, MongoDB
 
 ### Front end
-HTML5, CSS, SCSS, JavaScript, TypeScript, React, Angular, Emotion
+### Languages
+HTML5, CSS, SCSS, JavaScript, TypeScript, Rust (WASM)
+### Frameworks
+React, Leptos
 
 ### Design
 Figma
