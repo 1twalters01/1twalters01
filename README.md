@@ -18,7 +18,7 @@ Listing things I know how to use:
 * Databases - Postgresql, Redis, Cassandra
 
 ### Front end
-* Languages - HTML5, CSS, SCSS, JavaScript, TypeScript, Rust (WASM)
+* Languages - HTML5, CSS, JavaScript, SCSS, TypeScript, Rust (WASM)
 * Frameworks - React, Leptos, VanillaJS (haha), Angular
 
 ### Design
