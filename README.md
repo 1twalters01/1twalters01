@@ -19,7 +19,7 @@ Listing things I know how to use:
 
 ### Front end
 * Languages - HTML5, CSS, SCSS, JavaScript, TypeScript, Rust (WASM)
-* Frameworks - React, Leptos, VanillaaJS (haha), Angular
+* Frameworks - React, Leptos, VanillaJS (haha), Angular
 
 ### Design
 Figma, Midjourney
