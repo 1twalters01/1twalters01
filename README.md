@@ -10,21 +10,21 @@ I am currently focusing on improving my data analytics skills and my use of the 
 I do quite a lot of freelancing in my spare time so progress on my project may be slow.
 
 ## Tech stack
-Listing things of note:
+Listing things I know how to use:
 
 ### Back end
-* Languages - Python, Rust, C++
-* Frameworks - Django, FastAPI
-* Databases - Postgresql, Redis, Cassandra, MongoDB
+* Languages - Python, Rust, C++, TypeScript
+* Frameworks - Django, FastAPI, Flask, Express
+* Databases - Postgresql, Redis, Cassandra
 
 ### Front end
 * Languages - HTML5, CSS, SCSS, JavaScript, TypeScript, Rust (WASM)
-* Frameworks - React, Leptos
+* Frameworks - React, Leptos, VanillaaJS (haha), Angular
 
 ### Design
 Figma, Midjourney
 
 ## Other things I have used recently
-Hugo, kotlin
+Mongo
 
 ## Thank you for reading!
