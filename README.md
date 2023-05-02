@@ -27,7 +27,7 @@ HTML5, CSS, SCSS, JavaScript, TypeScript, Rust (WASM)
 React, Leptos
 
 ### Design
-Figma
+Figma, Midjourney
 
 ## Other things I have used recently
 Hugo, kotlin
