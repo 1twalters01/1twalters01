@@ -13,7 +13,7 @@ I do quite a lot of freelancing in my spare time so progress on my project may b
 Listing things I know how to use:
 
 ### Back end
-* Languages - Python, Rust, C++, TypeScript
+* Languages - Python, Rust, C, JavaScript
 * Frameworks - Django, FastAPI, Flask, Express
 * Databases - Postgresql, Redis, Cassandra
 
