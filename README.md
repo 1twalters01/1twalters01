@@ -10,4 +10,4 @@
 ## Languages I ~am forced to~ use
 * MatLab
 * JavaScript
-* Lua
+* VHDL
