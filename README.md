@@ -1,30 +1,13 @@
-# Hi there 👋, I'm Tyler
+## Languages I enjoy
+* Rust
+* Python
+* Elixir
 
-## About me
-I'm a recent Mech eng grad of 2022 that has been using python since 2016. I enjoy reading about various topics such as finance and psychology, playing the piano and going to the gym. I've decided to start using github to document my code - analysing what you've done in the past can help you make big improvements. I am a big proponent of being the best version of yourself, and think that journaling can aid well on that endeavour.
+## Languages I want to learn
+* Swift
+* C
 
-I enjoy playing around with different aspects of technology and finding ways to link them - it's why I'm currently working on my current project. I enjoy language learning, psychology, business, marketing and computing so I came up with a project that would link them all together.
-
-I am currently focusing on improving my data analytics skills and my use of the DjangoREST framework in my freetime.
-
-I do quite a lot of freelancing in my spare time so progress on my project may be slow.
-
-## Tech stack
-Listing things I know how to use:
-
-### Back end
-* Languages - Python, Rust, C, JavaScript
-* Frameworks - Django, FastAPI, Flask, Express
-* Databases - Postgresql, Redis, Cassandra
-
-### Front end
-* Languages - HTML5, CSS, JavaScript, SCSS, TypeScript, Rust (WASM)
-* Frameworks - React, Leptos, VanillaJS (haha), Angular
-
-### Design
-Figma, Midjourney
-
-## Other things I have used recently
-Mongo
-
-## Thank you for reading!
+## Languages I ~am forced to~ use
+* MatLab
+* JavaScript
+* Lua
