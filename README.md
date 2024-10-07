@@ -5,6 +5,7 @@
 
 ## Languages I want to learn
 * Swift
+* Kotlin
 * C
 
 ## Languages I ~am forced to~ use
