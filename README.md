@@ -4,5 +4,4 @@
 
 ## Languages I ~am forced to~ use
 * MatLab
-* JavaScript
 * VHDL
